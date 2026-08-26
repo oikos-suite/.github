@@ -4,6 +4,8 @@
 
 **High-performance, self-hosted audio streaming & synchronization ecosystem.**
 
+> *A play on **Agro** (the core sync daemon), **A group** (listening together, friend feeds & shared sessions), and **U+ / UP+** (elevating your music stack, plus all your sources unified).*
+
 [![Rust](https://img.shields.io/badge/Language-Rust_2024-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84.svg?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
@@ -12,6 +14,14 @@
 [![License: MIT / AGPL](https://img.shields.io/badge/License-MIT%20%2F%20AGPL--3.0-blue.svg?style=flat-square)](https://opensource.org/)
 
 </div>
+
+---
+
+### 💡 Behind the Name
+
+- **Agro** — The central daemon coordinating real-time sync, handoff, and music routing.
+- **A group** — The social dimension: private friend feeds, shared playback, and synchronized listen-along.
+- **U+ / UP+** — Bringing **you** and all your music sources together (**+**) while taking the self-hosted audio experience **up** a level.
 
 ---
 
@@ -52,7 +62,7 @@
 ### ✨ Core Pillars
 
 - ⚡ **Zero-Latency Audio & Offload**: Decoupled lock-free audio engine on desktop (`cpal`/`symphonia`) and native DSP hardware audio offload on Android (`Media3`).
-- 🔄 **Unified Unified Queues**: Mix and match local files, Subsonic/Navidrome servers, YouTube Music, and Internet Archive seamlessly.
+- 🔄 **Unified Queues**: Mix and match local files, Subsonic/Navidrome servers, YouTube Music, and Internet Archive seamlessly.
 - 📲 **Seamless Cross-Device Handoff**: Start playing in your terminal with `Wander`, pick up exactly where you left off on `Wanda` mobile via `Agro`.
 - 🔒 **Privacy by Default**: Strict opt-in social boundaries, zero trackers/analytics, Keystore-backed secrets (AES-256-GCM), and no telemetry.
 - 🪶 **Self-Contained & Minimal**: Single-binary Rust daemons with embedded React dashboards, SQLite storage, and zero external database dependencies.
