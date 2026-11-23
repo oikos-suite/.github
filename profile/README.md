@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pharos-hq">Pharos, the sister suite</a> ·
+  <a href="https://github.com/pharos-suite">Pharos, the sister suite</a> ·
   <a href="https://github.com/Kolbxyz">Kolb</a>
 </p>
 
@@ -54,5 +54,5 @@ Every app works on its own. The music apps can also share one home server, Agro.
 ---
 
 <p align="center">
-  Made in France · <a href="https://github.com/pharos-hq">See also: Pharos</a>
+  Made in France · <a href="https://github.com/pharos-suite">See also: Pharos</a>
 </p>
