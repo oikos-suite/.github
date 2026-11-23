@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Kitsune mark: a terracotta fox head on warm charcoal. -->
+  <rect width="512" height="512" rx="112" fill="#1d1c1a"/>
+  <g transform="translate(56 47.675) scale(8.333)">
+    <path d="M6 8 L18 16 Q24 13 30 16 L42 8 L38 26 Q34 38 24 42 Q14 38 10 26 Z" fill="#e07c5d"/>
+    <path d="M24 42 Q16 37 13 28 L24 33 L35 28 Q32 37 24 42 Z" fill="#ea9073" opacity="0.55"/>
+    <ellipse cx="18" cy="25" rx="2" ry="2.6" fill="#1d1c1a"/><ellipse cx="30" cy="25" rx="2" ry="2.6" fill="#1d1c1a"/><path d="M22 34 Q24 32 26 34 L24 36 Z" fill="#1d1c1a"/>
+  </g>
+</svg>

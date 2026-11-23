@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- frwd mark: two forward shards, share links passing through. -->
+  <rect width="512" height="512" rx="112" fill="#FFCDB6"/>
+  <polygon points="120,150 300,256 120,362 176,256" fill="#5A2008"/>
+  <polygon points="250,150 410,256 250,362 298,256" fill="#5A2008" opacity="0.55"/>
+</svg>

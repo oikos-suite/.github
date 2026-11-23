@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Oikos suite mark: a roof of two shards over a hearth diamond, ink on bone. -->
+  <rect width="512" height="512" rx="112" fill="#EDE7DA"/>
+  <polygon points="244,96 78,262 140,278 244,170" fill="#1E1B16"/>
+  <polygon points="268,96 434,262 372,278 268,170" fill="#1E1B16"/>
+  <polygon points="256,214 312,318 256,420 200,318" fill="#1E1B16"/>
+</svg>
